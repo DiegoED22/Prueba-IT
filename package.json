@@ -1,0 +1,19 @@
+{
+  "name": "basicFrontTest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "json-server --watch db/db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasur-a/basicFrontTest"
+  },
+  "author": "@jasur-a",
+  "license": "",
+  "homepage": "https://github.com/jasur-a/basicFrontTest/#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.0"
+  }
+}

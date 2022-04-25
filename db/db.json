@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "pass": "admin",
+      "status": true
+    },
+    {
+      "id": 2,
+      "user": "admin2",
+      "pass": "admin2",
+      "status": false
+    }
+  ],
+  "products": [
+    {
+      "name": "Manzanas",
+      "total": "12",
+      "description": "Rojas, dulces y jugosas.",
+      "id": 1
+    },
+    {
+      "name": "Peras",
+      "total": "22",
+      "id": 2,
+      "description": ""
+    },
+    {
+      "name": "Naranjas",
+      "total": "10",
+      "description": "Jugosas.",
+      "id": 3
+    },
+    {
+      "name": "Escobas",
+      "total": "2",
+      "description": "",
+      "id": 4
+    },
+    {
+      "name": "Detergente",
+      "total": "3",
+      "description": "Super desengrasante! rinde el doble.",
+      "id": 5
+    },
+    {
+      "name": "Lavandina",
+      "total": "5",
+      "description": "No mancha la ropa.",
+      "id": 6
+    }
+  ]
+}
